@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-import hand_detector as htm
+import HandTrackingModule as htm
 import time
 import autopy
 
